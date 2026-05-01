@@ -1,0 +1,15 @@
+Fraud Detection App 🚀
+An Interactive Application to Predict Fraud Detection
+
+This repository hosts a **Streamlit-powered fraud detection application** built on a pre-trained **XGBoost model**. 
+The app delivers **lightning-fast predictions** with a professional, vibrant UI — no manual dataset uploads required. 
+Just run the app and start predicting fraud risk instantly.
+
+## ✨ Features
+- ⚡ **Instant Predictions** — Pre-trained XGBoost model for swift inference.
+- 🎨 **Professional UI** — Vibrant, modern Streamlit dashboard.
+- 🔄 **Reset Button** — Quickly clear inputs for fresh predictions.
+- 📊 **Categorical Dropdowns** — Guided input for states, categories, devices, payment methods, and merchant types.
+- 🛡️ **Fraud Risk Alerts** — Clear fraud vs. legitimate transaction output.
+
+
